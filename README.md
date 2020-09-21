@@ -1,2 +1,2 @@
 # OpenBlinds
-ESP12-E based automatic blind controller
+ESP12-based automatic blinds driver and controller
